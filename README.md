@@ -32,6 +32,7 @@ Pusher公式: https://pusher.com/
     "created_at": "2021-06-18T15:42:55.000000Z",
     "updated_at": "2021-06-18T15:42:55.000000Z"
   }
+}
 
 
 ```
