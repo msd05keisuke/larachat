@@ -2,6 +2,7 @@
 - 会員登録機能
 - 1対多のリアルタイムチャット機能
 ![result](https://user-images.githubusercontent.com/75054606/122583427-2c2fcf00-d094-11eb-8c28-2dd9e332fbc5.gif)
+※見づらいですが、３人います、、、、、、、
 
 
 # Pusher
