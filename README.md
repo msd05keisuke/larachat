@@ -13,6 +13,30 @@ PusherとはWebサービスの1つで、WebSocketを使ってリアルタイム�
 
 Pusher公式: https://pusher.com/
 
+# API
+
+```
+ {
+  "user": {
+    "id": 4,
+    "name": "にほんだいひょう",
+    "email": "abc@gmail.com22",
+    "email_verified_at": null,
+    "created_at": "2021-06-18T15:10:49.000000Z",
+    "updated_at": "2021-06-18T15:10:49.000000Z"
+  },
+  "message": {
+    "id": 15,
+    "user_id": 4,
+    "message": "おはようございます！",
+    "created_at": "2021-06-18T15:42:55.000000Z",
+    "updated_at": "2021-06-18T15:42:55.000000Z"
+  }
+
+
+```
+
+
 # 実行方法
 
 ```
