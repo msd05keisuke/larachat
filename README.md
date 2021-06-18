@@ -8,7 +8,7 @@
 # Pusher
 PusherとはWebサービスの1つで、WebSocketを使ってリアルタイムかつ両方向の通信機能をWebサイトやモバイルアプリに組み込むサービス.PusherのAPIはもともとシンプルだが、Laravel BroadcastingとLaravel Echoを組み合わせると極限までシンプルにできる．フロントエンドはVueを使って非同期で反映させる．
 
-![pusher](https://user-images.githubusercontent.com/75054606/122578034-71e99900-d08e-11eb-99f8-74d4e0741573.png)
+![pusher](https://user-images.githubusercontent.com/75054606/122578034-71e99900-d08e-11eb-99f8-74d4e0741573.png)<br>
 
 Pusher公式: https://pusher.com/
 
