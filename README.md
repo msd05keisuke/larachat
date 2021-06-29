@@ -61,11 +61,13 @@ $ cp .env.example .env
 // 環境変数の上書き
 $ php artisan sail:install
 
-// Pusher Keyの設定 (.envを編集)
+// .envの設定
+BROADCAST_DRIVER=pusher　// 忘れがち
+
 PUSHER_APP_ID=
 PUSHER_APP_KEY=
 PUSHER_APP_SECRET=
-PUSHER_APP_CLUSTER=mt1
+PUSHER_APP_CLUSTER=
 
 // エイリアスの設定
 $ alias sail='bash vendor/bin/sail'
